@@ -1,0 +1,8 @@
+.incbtn {
+  background-color: rgb(160, 255, 165);
+  color: rgb(255, 255, 255);
+  padding: 5px 15px;
+  border-radius: 10px;
+  border: 2px solid rgb(7, 211, 7);
+  margin: 0px 0px 5px 50px;
+}
